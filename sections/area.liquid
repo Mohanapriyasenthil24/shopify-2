@@ -1,0 +1,160 @@
+{% comment %} <div class="areasection">
+   <div class="areasection1">
+     <p class="areasubtitle">{{ section.settings.areatext }}</p>
+     <h1 class="area-title">{{ section.settings.Heading2 }}</h1> 
+   </div>
+  <div class="areasection2">
+    {% for block in section.blocks %}
+       {% if block.type == 'richtext' %}
+         <h5 class="textareamenu">{{ block.settings.subbody }}</h5>
+       {% endif %}
+    {% endfor %}
+  </div>
+</div> {% endcomment %}
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+<div class="areasection">
+   <div class="areasection1">
+     <p class="areasubtitle">{{ section.settings.areatext }}</p>
+     <h1 class="area-title">{{ section.settings.Heading2 }}</h1> 
+   </div>
+  <div class="areasection2">
+    {% for block in section.blocks %}
+      <!-- <div>
+        {% if block.type=='image' %}
+         <img class="Images" src="{{ 'right.png' | file_img_url: '30x30' }}" />
+        {% endif %}
+      </div> -->
+      <!-- <div class="areacontent">
+          {% if block.type == 'richtext' %}
+             <img class="Images" src="{{ 'right-round-xxl.png' | file_img_url: '25x15' }}" />
+            <h5 class="textareamenu">{{ block.settings.subbody }}</h5>
+          {% endif %}
+      </div> -->
+    <div class="areacontent">
+      {% if block.type == 'richtext' %}
+       <!-- <i class="fa-solid fa-circle-arrow-right"></i> -->
+          <h5 class="textareamenu">{{ block.settings.subbody }}</h5>
+  {% endif %}
+</div>
+
+    {% endfor %}
+  </div>
+</div>
+
+
+
+<style>
+  .areasection{
+    display:flex;
+    background-color:#e36e14;
+  }
+.areasection1 {
+    width: 25%;
+    padding-left: 5%;
+    padding-top: 6%;
+}
+  .areasubtitle {
+    /* font-family: "Inter"; */
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+  h1.area-title {
+    color: #FFFFFF;
+    font-family: "Libre Baskerville", Sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.1em;
+}
+
+  .areasection2 {
+    /* width:75%; */
+    border-left: 1px solid white;
+    padding-left: 7%;
+    border-right: 1px solid white;
+}
+  
+h5 {
+    color: #FFFFFF;
+    font-family: "Libre Baskerville";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+  .areacontent{
+    display:flex;
+  }
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    color: white;
+}
+
+  
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% schema %}
+  {
+    "name": "Areasection",
+    "settings": [
+      {
+      "type":"text",
+      "id":"areatext",
+      "label":"heading"
+      },
+      {
+      "type":"text",
+      "id":"Heading2",
+      "label":"mainheading"
+      }   
+    ],
+    "blocks":[
+      {
+        "type":"richtext",
+        "name":"areablocks",
+        "settings":[
+          {
+            "type":"richtext",
+            "id":"subbody",
+            "label":"subject"
+          }
+        ]
+      },
+        {
+        "type":"image",
+        "name":"areaicons",
+        "settings":[
+          {
+            "type":"image_picker",
+            "id":"icon",
+            "label":"uploadicons"
+          }
+        ]
+        }
+       
+    ],
+    "presets":[
+      {
+        "name":"Areasection"
+      }
+    ]
+  }
+{% endschema %}
+
+          
+ 

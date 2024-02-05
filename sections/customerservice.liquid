@@ -1,0 +1,22 @@
+<div class="cussection">
+  <h1>{{ section.settings.customerheading }}</h1
+    <a class="btn" href="#">Schedule Your FREE Consultation</a>                                          
+</div>
+
+{% schema %}
+  {
+    "name": "Customerservice",
+    "settings": [
+      {
+        "type":"richtext",
+        "id":"customerheading",
+        "label":"entertext"
+      }
+    ],
+    "presets":[
+      {
+        "name":"Customerservice"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,31 @@
+<div class="areasection">
+  <p class="areasubtitle">{{ section.settings.Subtitle }}</p>
+  <h1 class="area-title">{{ section.settings.title }}</h1>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "Areasection",
+    "settings": [
+      {
+        "type":"richtext",
+        "id":"Subtitle",
+        "label":"entertext"
+      },
+      {
+        "type":"richtext",
+        "id":"title",
+        "label":"title"
+      }
+    ],       
+  "presets":[
+  {
+    "name":"Areasection"
+  }
+]
+
+          
+ }
+{% endschema %}

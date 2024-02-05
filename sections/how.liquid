@@ -1,0 +1,79 @@
+<div class="howsection">
+   <h1 class="heading">{{ section.settings.howheading }}</h1>
+    <p class="sub">{{ section.settings.subtitle }}</p>
+    <div class="howsectionmenus">
+    {% for block in section.blocks %}
+       {% if block.type == 'richtext' %}
+         <div class="howcontent">
+         <!-- <i class="fa-regular fa-circle-check"></i> -->
+         <p class="textareamenu">{{ block.settings.howmenus }}</p>
+         </div>
+       {% endif %}
+    {% endfor %}
+</div>
+  
+</div>
+
+<style>
+  .howsection {
+    padding-left: 6%;
+    background: url('{{ section.settings.backgroundimage | img_url: 'master' }}');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness( 30% ) contrast( 100% ) saturate( 80% ) blur( 0px ) hue-rotate( 0deg );
+    margin-top:-31px;
+}
+ 
+  .howsectionmenus {
+    padding-left: 5%;
+}
+</style>
+
+
+
+
+
+
+
+
+
+{% schema %}
+  {
+    "name": "Howsection",
+    "settings": [
+      {
+      "type":"richtext",
+      "id":"howheading",
+      "label":"heading"
+      },
+      {
+      "type":"text",
+      "id":"subtitle",
+      "label":"subtitle"
+      },
+      {
+        "type":"image_picker",
+        "id":"backgroundimage",
+        "label":"uploadimage"
+      }
+    ],
+    "blocks":[
+      {
+        "type":"richtext",
+        "name":"blocks",
+        "settings":[
+          {
+            "type":"richtext",
+            "id":"howmenus",
+            "label":"menus"
+          }
+        ]
+      }
+    ],
+    "presets":[
+      {
+        "name":"Howsection"
+      }
+    ]
+  }
+{% endschema %}

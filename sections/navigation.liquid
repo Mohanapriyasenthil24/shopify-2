@@ -1,0 +1,171 @@
+<div class="Navigation">
+  <div class="logo-section">
+    <img class="Images" src="{{ 'logo.png' | file_img_url: '100x100' }}" />
+    <p>{{ section.settings.Heading2 }}</p>
+  </div>
+  <div class="navmenus">
+    <div class="navcontact">
+      {% for block in section.blocks %}
+        {% if block.type == 'image' %} 
+            <div class="navicons">
+              {{
+              block.settings.icon
+              | image_url: width: 15
+              | image_tag: sizes: sizes, widths: widths, fetchpriority: fetch_priority
+             }}
+            </div>
+         {% elsif block.type == 'richtext' %}
+            <div class="navtext">
+              <p>{{ block.settings.subbody }}</p>
+            </div> 
+       {% endif %}
+     {% endfor %}
+  </div>
+  <div class=SE>
+        <ul class="NAVMENUS">
+          {% for link in linklists.Newmenu.links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+           {% endfor %}
+         </ul>
+        <img class="navimage" src="{{ 'SE-HABLA.png' | file_img_url: '200x100' }}" />
+  </div>
+</div>
+</div>
+
+  
+
+
+  
+<style>
+  img.Images {
+    padding-left: 4%;
+}
+.Navigation {
+    display: flex;
+    margin-bottom: -41px;
+}
+  .logo-section {
+      border-right: 1px solid #e1e3e7;
+    text-align: center;
+    color: #3c2919;
+    font-family: "Libre Baskerville";
+}
+  .navicons {
+    /* background-color: white; */
+    margin-top: 16px;
+    padding-right:5px;
+    padding-left:10px;
+}
+  .navtext {
+    font-family: "Libre Baskerville";
+    /* font-size: 14px; */
+}
+ .navmenus {
+    display: flex;
+    color: white;
+    width: 85%;
+    font-family: "Libre Baskerville";
+    flex-direction: column;
+    font-size: 14px;
+}
+  .navcontact {
+    display: flex;
+    background-color: #3c2919; 
+    padding-left: 40%;
+}
+  ul.NAVMENUS {
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+}
+  /* ul.NAVMENUS li a:hover{
+    color:#e47119;
+    text-decoration: underline;
+    text-decoration-color: #d30d17;
+  } */
+
+  ul.NAVMENUS li a:hover {
+      position: relative;
+      display: inline-block;
+    }
+
+    ul.NAVMENUS li a:hover:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -10px; /* Adjust this value to set the gap below the text */ 
+      width: 70%;
+      border-bottom: 2px solid #d30d17; /* Change color or style as needed */
+    }
+  .SE {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+  ul.NAVMENUS li a{
+    color: #3c2919;
+    padding-right: 55px;
+    text-decoration: none;
+}
+  
+</style>
+
+
+{% schema %}
+ {
+    "name": "Navbar",
+    "settings": [
+      {
+      "type":"image_picker",
+      "id":"logo",
+      "label":"Logo"
+      },
+      {
+      "type":"text",
+      "id":"Heading2",
+      "label":"mainheading"
+      }   
+    ],
+    "blocks":[
+      {
+        "type":"richtext",
+        "name":"areablocks",
+        "settings":[
+          {
+            "type":"richtext",
+            "id":"subbody",
+            "label":"subject"
+          }
+        ]
+      },
+        {
+        "type":"image",
+        "name":"areaicons",
+        "settings":[
+          {
+            "type":"image_picker",
+            "id":"icon",
+            "label":"uploadicons"
+          }
+        ]
+        },
+          {
+           "type":"navigation",
+           "name":"Navigation column",
+           "settings":[
+            {
+               "type":"link_list",
+               "id":"menu",
+               "label":"menus"
+             }
+        ]
+      }  
+    ],
+    "presets":[
+      {
+        "name":"Navbar"
+      }
+    ]
+  }
+{% endschema %}

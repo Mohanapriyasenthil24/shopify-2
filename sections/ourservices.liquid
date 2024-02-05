@@ -1,0 +1,206 @@
+<div class="ourservicessection">
+<p class="ourserviceshead1">{{ section.settings.ourservices }}</p>
+<h1 class="ourservicesmainheading">{{ section.settings.ourservicesheading }}</h1>
+<p class="ourservicessubject">{{ section.settings.ourservicesbody }}</p>
+   <div class="ourservicesimages">
+      <div class="sections section1">
+     <p class="servicestext">{{ section.settings.backgroundtext1 }}</p>
+     </div>
+      <div class="sections section2">
+      <p class="servicestext">{{ section.settings.backgroundtext2 }}</p>
+      </div>
+      <div class="sections section3">
+      <p class="servicestext">{{ section.settings.backgroundtext3 }}</p>
+      </div>
+      <div class="sections section4">
+      <p class="servicestext">{{ section.settings.backgroundtext4 }}</p>
+      </div>
+      <div class="sections section5">
+      <p class="servicestext">{{ section.settings.backgroundtext5 }}</p>
+      </div>
+      <div class="sections section6">
+      <p class="servicestext">{{ section.settings.backgroundtext6 }}</p>
+      </div>
+   </div> 
+</div>
+
+
+<style>
+.ourservicessection{
+  text-align:center;
+  background: url('{{ section.settings.backgroundimage | img_url: 'master' }}');
+  background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 3%;
+    opacity: 0.9; 
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s; 
+}
+#shopify-section-template--22038948184345__ourservices_fGGKJC img {
+    width: 368px;
+    height: 178px;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    filter: brightness( 50% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+}
+.ourservicesimages{
+  display:flex;
+  flex-wrap: wrap;
+  /* padding-left:3%;
+  padding-bottom:3%; */
+  justify-content:center;
+}
+  .sections {
+    width: 368px;
+    height: 178px;
+    filter: brightness( 50% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+}
+  .section1{
+    background: url('{{ section.settings.img1 | img_url: '394x168' }}');
+  }
+  .section2{
+    background: url('{{ section.settings.img2 | img_url: '394x168' }}');
+  }
+  .section3{
+    background: url('{{ section.settings.img3 | img_url: '394x168' }}');
+  }
+  .section4{
+    background: url('{{ section.settings.img4 | img_url: '394x168' }}');
+    margin-left:3%
+  }
+  .section5{
+    background: url('{{ section.settings.img5 | img_url: '394x168' }}');
+  }
+  .section6{
+    background: url('{{ section.settings.img6 | img_url: '394x168' }}');
+  }
+.section1,.section2,.section3,.section4,.section5,.section6{
+  margin-right: 3%;
+  margin-bottom: 2%;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+
+  /* h2 {
+    position: absolute;
+    top: 65px;
+    left:65px;
+    color: red;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "Libre Baskerville";
+}
+ */
+  .sections .section1:hover{
+  background-color:gray;
+  }
+  p.ourserviceshead1 {
+    color: #e36e14;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 12px;
+}
+p.ourservicessubject {
+    line-height: 1.5em;
+    line-height: 1.6em;
+    font-family: "Heebo";
+    font-size: 15px;
+    color: #3c2919;
+}
+
+</style>
+
+
+{% schema %}
+  {
+    "name": "Ourservices",
+    "settings": [
+      {
+        "type":"text",
+        "id":"ourservices",
+        "label":"ourservicestext"
+      },
+      {
+        "type":"richtext",
+        "id":"ourservicesheading",
+        "label":"ourservicestext"
+      },
+      {
+        "type":"text",
+        "id":"ourservicesbody",
+        "label":"ourservicestext"
+      },
+      {
+        "type":"image_picker",
+        "id":"img1",
+        "label":"uploadimage"
+      },
+         {
+        "type":"image_picker",
+        "id":"img2",
+        "label":"uploadimage"
+      },
+         {
+        "type":"image_picker",
+        "id":"img3",
+        "label":"uploadimage"
+      },
+         {
+        "type":"image_picker",
+        "id":"img4",
+        "label":"uploadimage"
+      },
+         {
+        "type":"image_picker",
+        "id":"img5",
+        "label":"uploadimage"
+      },
+         {
+        "type":"image_picker",
+        "id":"img6",
+        "label":"uploadimage"
+      },
+      {
+        "type":"image_picker",
+        "id":"backgroundimage",
+        "label":"uploadimage"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext1",
+        "label":"entertext"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext2",
+        "label":"entertext"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext3",
+        "label":"entertext"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext4",
+        "label":"entertext"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext5",
+        "label":"entertext"
+      },
+        {
+        "type":"text",
+        "id":"backgroundtext6",
+        "label":"entertext"
+      }
+    ],
+    "presets" : [
+    {
+        "name" : "Ourservices"
+    }
+    ]
+  }
+{% endschema %}
