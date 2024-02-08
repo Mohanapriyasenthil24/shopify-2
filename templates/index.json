@@ -790,11 +790,20 @@
             "link": ""
           }
         },
+        "column_YYFfGm": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tax Problem Solver<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_mbgmYN": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -811,6 +820,7 @@
       },
       "block_order": [
         "column_f49bYM",
+        "column_YYFfGm",
         "column_mbgmYN",
         "column_QnPcrp"
       ],
