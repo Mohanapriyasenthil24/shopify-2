@@ -1,1 +1,852 @@
-{"sections":{"image_with_text_section1_gYYJpG":{"type":"image-with-text-section1","blocks":{"heading_T6icmk":{"type":"heading","settings":{"heading":"<strong>Walrond Tax Resolutions, PLLC is a division of JLD Tax Resolution Group<\/strong>","heading_size":"h1"}},"text_kPnDC4":{"type":"text","settings":{"text":"<p>Walrond Tax Resolutions, PLLC help save our clients millions of dollars in taxes. We help protect you against the IRS and any state tax agencies.<\/p>","sidetext":"","text_style":"body"}},"button_Cr7amN":{"type":"button","settings":{"button_label":"Get Started","button_link":"#","button_style_secondary":false}},"caption_MdKkTD":{"type":"caption","settings":{"caption":"Best Tax Resolution Service","text_style":"subtitle","text_size":"large"}},"caption_PabVib":{"type":"caption","settings":{"caption":"Tax Problem Solver","text_style":"subtitle","text_size":"large"}},"caption_izdNdw":{"type":"caption","settings":{"caption":"Highly Dedicated Worker","text_style":"subtitle","text_size":"large"}}},"block_order":["heading_T6icmk","text_kPnDC4","button_Cr7amN","caption_MdKkTD","caption_PabVib","caption_izdNdw"],"custom_css":[".image-with-text__text-item.grid__item {background-color: #463325;}","strong {color: #ffffff;}",".image-with-text__heading {color: white;}","a.button.button {background-color: #e36e14; border-radius: 12px;}","a.button.button:hover {background-color: red;}"],"settings":{"image":"shopify:\/\/shop_images\/banner.png","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_section2_EErTQB":{"type":"image-with-text-section2","blocks":{"heading_mT7baH":{"type":"heading","settings":{"heading":"About Walrond Tax Resolutions, PLLC","heading_size":"h1"}},"heading_DkVzLy":{"type":"heading","settings":{"heading":"Tax Resolutions for small businesses & individuals","heading_size":"h0"}},"text_khchUL":{"type":"text","settings":{"text":"<p>Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.<\/p><p>We have extensive experience with assisting individuals and business owners resolve their IRS and state tax problems. <\/p>","sidetext":"","text_style":"subtitle"}},"button_eFKVMy":{"type":"button","settings":{"button_label":"Button label","button_link":"#","button_style_secondary":false}},"richtext_H7C8b9":{"type":"richtext","settings":{"experience":"<h2>15+Years Experienced<\/h2>"}}},"block_order":["heading_mT7baH","heading_DkVzLy","text_khchUL","button_eFKVMy","richtext_H7C8b9"],"custom_css":["h2.image-with-text__heading.inline-richtext.h1 {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}","h2.image-with-text__heading.inline-richtext.h0 {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}",".image-with-text__text.rte.body {font-family: \"Libre Baskerville\"; font-size: 16px;}",".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border-radius: 12px;}","a.button {background-color: #e36e14; border-radius: 12px;}"],"settings":{"image":"shopify:\/\/shop_images\/W1.webp","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"image_with_text_exT6N6":{"type":"image-with-text","blocks":{"text_83MG6f":{"type":"text","settings":{"text":"<h1><strong>Walrond Tax Resolutions, PLLC is a division of JLD Tax Resolution Group<\/strong><\/h1>","sidetext":"","text_style":"subtitle"}},"heading_bbmxYf":{"type":"heading","settings":{"heading":"Walrond Tax Resolutions, PLLC help save our clients millions of dollars in taxes. We help protect you against the IRS and any state tax agencies.","heading_size":"h2"}},"button_zPwGUm":{"type":"button","settings":{"button_label":"Get Started","button_link":"#","button_style_secondary":false}},"text_nEfxhn":{"type":"text","settings":{"text":"<p><strong>Best Tax Resolution Service<\/strong><\/p>","sidetext":"","text_style":"body"}},"text_t66MjX":{"type":"text","settings":{"text":"<p><strong>Tax Problem Solver<\/strong><\/p>","sidetext":"","text_style":"body"}},"text_wiVgcA":{"type":"text","settings":{"text":"<p><strong>Highly Dedicated Worker<\/strong><\/p>","sidetext":"","text_style":"body"}}},"block_order":["text_83MG6f","heading_bbmxYf","button_zPwGUm","text_nEfxhn","text_t66MjX","text_wiVgcA"],"disabled":true,"custom_css":[".image-with-text__text-item.grid__item {background-color: #463325;}","strong {color: #ffffff;}",".image-with-text__heading {color: white;}","a.button.button {background-color: #e36e14; border-radius: 12px;}","a.button.button:hover {background-color: red;}"],"settings":{"image":"shopify:\/\/shop_images\/bannerimage.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"center","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"slick_slider_yeYJWh":{"type":"Slick-Slider","disabled":true,"settings":{}},"custom_liquid_TqGrqB":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"","color_scheme":"","padding_top":40,"padding_bottom":52}},"image_with_text_mxaLPH":{"type":"image-with-text","blocks":{"heading_wEGf4M":{"type":"heading","settings":{"heading":"About Walrond Tax Resolutions, PLLC","heading_size":"h2"}},"heading_AtNEbM":{"type":"heading","settings":{"heading":"<strong>Tax Resolutions for small businesses & individuals<\/strong>","heading_size":"h0"}},"text_AMF8UB":{"type":"text","settings":{"text":"<p>Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.<\/p><p>We have extensive experience with assisting individuals and business owners resolve their IRS and state tax problems. <\/p>","sidetext":"","text_style":"body"}},"button_biPkiy":{"type":"button","settings":{"button_label":"About us","button_link":"shopify:\/\/pages\/contact","button_style_secondary":true}},"text_Xr76Ab":{"type":"text","settings":{"text":"<h1><strong>15+Years Experienced<\/strong><\/h1>","sidetext":"","text_style":"body"}}},"block_order":["heading_wEGf4M","heading_AtNEbM","text_AMF8UB","button_biPkiy","text_Xr76Ab"],"disabled":true,"custom_css":["h2.image-with-text__heading.inline-richtext.h2 {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}","h2.image-with-text__heading.inline-richtext.h0 {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}",".image-with-text__text.rte.body {font-family: \"Libre Baskerville\"; font-size: 16px;}",".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border-radius: 12px;}","a.button {background-color: #e36e14; border-radius: 12px;}"],"settings":{"image":"shopify:\/\/shop_images\/W1.webp","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"ourservices_fGGKJC":{"type":"ourservices","custom_css":["\/* img {width: 368px; height: 178px; padding-right: 2%; padding-bottom: 2%;}"," *\/strong {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}","h2 {position: absolute; top: 65px; left: 65px; color: #ffffff; font-size: 24px; font-weight: 600; font-family: \"Libre Baskerville\";}"],"settings":{"ourservices":"Our Services","ourservicesheading":"<h1><strong>Our Tax Services<\/strong><\/h1>","ourservicesbody":"Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.","img1":"shopify:\/\/shop_images\/W4_img1.png","img2":"shopify:\/\/shop_images\/W2_img2.png","img3":"shopify:\/\/shop_images\/W3_img3.png","img4":"shopify:\/\/shop_images\/w4_img4.png","img5":"shopify:\/\/shop_images\/w4_img5.png","img6":"shopify:\/\/shop_images\/W4_img6.png","backgroundimage":"shopify:\/\/shop_images\/Futurism-Background-23.jpg","backgroundtext1":"<h2>Prepare Federal and Tax Returns<\/h2>","backgroundtext2":"<h2>Tax Court representation<\/h2>","backgroundtext3":"<h2>Federal Court Representation<\/h2>","backgroundtext4":"<h2>Installment plans<\/h2>","backgroundtext5":"<h2>Amended tax returns<\/h2>","backgroundtext6":"<h2>Chapter 7 Bankruptcy<\/h2>"}},"rich_text_jhM8Rm":{"type":"rich-text","blocks":{"button_yN793A":{"type":"button","settings":{"button_label":"View All Services","button_link":"#","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["button_yN793A"],"custom_css":[".rich-text {z-index: 1; margin-top: 3%; background-color: #cfd2d9;}","a.button.button--primary {background-color: #e36e14;}","a.button.button--primary:hover {background-color: red;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"area_xQmQNL":{"type":"area","blocks":{"richtext_d4xAnM":{"type":"richtext","settings":{"subbody":"<h5>Tax Controversy – represent clients in civil litigation with the IRS and State Authorities<\/h5>"}},"richtext_6bV9ME":{"type":"richtext","settings":{"subbody":"<h5>LLC Formation and Incorporation<\/h5>"}},"richtext_TUDkJr":{"type":"richtext","settings":{"subbody":"<h5>Preparation of Tax Returns ( Individual and Business)<\/h5>"}},"richtext_NiyLi3":{"type":"richtext","settings":{"subbody":"<h5>Offer in Compromise ( Tax Debt Relief)<\/h5>"}},"richtext_wVrE3x":{"type":"richtext","settings":{"subbody":"<h5>Heling prevent Tax Levies, collections and wage garnishment<\/h5>"}},"richtext_iUQU4L":{"type":"richtext","settings":{"subbody":"<h5>Prepare applications for ITINs<\/h5>"}},"richtext_pBiTnE":{"type":"richtext","settings":{"subbody":"<h5>Bankruptcy -Chapter 7 only<\/h5>"}},"richtext_tzP67G":{"type":"richtext","settings":{"subbody":"<h5>Innocent Spouse Relief<\/h5>"}},"richtext_N9Pin8":{"type":"richtext","settings":{"subbody":"<h5>Payroll Services<\/h5>"}},"richtext_RgzEHP":{"type":"richtext","settings":{"subbody":"<h5>Court Defense in Tax Cases<\/h5>"}},"image_kM3cwC":{"type":"image","settings":{"icon":"shopify:\/\/shop_images\/whiteright.jpg"}}},"block_order":["richtext_d4xAnM","richtext_6bV9ME","richtext_TUDkJr","richtext_NiyLi3","richtext_wVrE3x","richtext_iUQU4L","richtext_pBiTnE","richtext_tzP67G","richtext_N9Pin8","richtext_RgzEHP","image_kM3cwC"],"settings":{"areatext":"Walrond Tax Resolutions, PLLC","Heading2":"Areas of Practice"}},"how_JtUU8X":{"type":"how","blocks":{"richtext_4pMEdp":{"type":"richtext","settings":{"howmenus":"<p><strong>Offer in Compromise (Tax Debt Relief)<\/strong><\/p>"}},"richtext_fCeCkM":{"type":"richtext","settings":{"howmenus":"<p><strong>Payroll Services for Small Businesses<\/strong><\/p>"}},"richtext_TphqcT":{"type":"richtext","settings":{"howmenus":"<p><strong>Bankruptcy, Chapter 7 Only<\/strong><\/p>"}},"richtext_Ck46bA":{"type":"richtext","settings":{"howmenus":"<p><strong>Challenge to Tax Liability<\/strong><\/p>"}},"richtext_xkKAhb":{"type":"richtext","settings":{"howmenus":"<p><strong>Applying for ITINs<\/strong><\/p>"}},"richtext_DckEEA":{"type":"richtext","settings":{"howmenus":"<p><strong>Helping prevent Tax Levies, wage garnishment, bank levies, and collections<\/strong><\/p>"}},"richtext_gw89mM":{"type":"richtext","settings":{"howmenus":"<p><strong>LLC Formation and Corporation Formation<\/strong><\/p>"}},"richtext_CK6LYm":{"type":"richtext","settings":{"howmenus":"<p><strong>New Business Formation<\/strong><\/p>"}}},"block_order":["richtext_4pMEdp","richtext_fCeCkM","richtext_TphqcT","richtext_Ck46bA","richtext_xkKAhb","richtext_DckEEA","richtext_gw89mM","richtext_CK6LYm"],"custom_css":["h1 {padding-top: 9%; color: white; font-family: \"Libre Baskerville\", Sans-serif; font-size: 46px; font-weight: 700; line-height: 1.1em;}","p {font-size: 22px; font-weight: 600; color: #ffffff;}"],"settings":{"howheading":"<h1><strong>How we can help ?<\/strong><\/h1>","subtitle":"Walrond Tax Resolutions, PLLC can provide assistance with","backgroundimage":"shopify:\/\/shop_images\/customer-service-executives-working-in-call-center.jpg"}},"rich_text_PYcgn7":{"type":"rich-text","blocks":{"text_qVgBTN":{"type":"text","settings":{"text":"<h1><strong>Let a Dedicated Tax Attorney resolve your tax problems.<br\/>Schedule a Free Consultation now.<\/strong><\/h1>"}}},"block_order":["text_qVgBTN"],"disabled":true,"custom_css":["a.button.button--primary {background-color: #ff7150; border-radius: 12px; font-family: \"Libre Baskerville\";}",".rich-text__wrapper {background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0854\/9272\/8089\/files\/office-work.jpg?v=1706694524); padding: 5em 2em 5em 2em; background-position: center center; background-repeat: no-repeat; background-size: cover; \/* filter: brightness(30%) contrast(100%) saturate(65%) blur(0px) hue-rotate(0deg); *\/ width: 100%;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"rich_text_p87xPw":{"type":"rich-text","blocks":{"heading_X7Bkhz":{"type":"heading","settings":{"heading":"Testimonials","heading_size":"h2"}},"text_ctnRax":{"type":"text","settings":{"text":"<h1><strong>What Our Clients Says<\/strong><\/h1>"}}},"block_order":["heading_X7Bkhz","text_ctnRax"],"custom_css":["h2.rich-text__heading.rte.inline-richtext.h2.scroll-trigger.animate--slide-in {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}",".rich-text__text.rte.scroll-trigger.animate--slide-in {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"slideshow_LWyKkQ":{"type":"slideshow","blocks":{"slide_T7VD6t":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Lens and Miggy A","heading_size":"h2","subheading":"A married couple ,spouse laid off from job, owns a house, owed $45,000 in Federal Taxes, the couple receive an Offer in Compromise settlement from the IRS for $1,000.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_t6hRW3":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Jarruth D","heading_size":"h2","subheading":"W-2 employee owed $90,000 in Federal taxes, child support payments he owes, he received an Offer in Compromise settlement from the IRS for $1,000.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_mpjQPR":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Evon L","heading_size":"h1","subheading":"Shared-ride Driver owed $15,000 in State Taxes, he received an Offer in Compromise settlement from the IRS for $4,000.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"slide_whzJqU":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Anthony R","heading_size":"h1","subheading":"Shared-ride Driver owed $45,000 in Federal Taxes due an IRS Audit, he received an Offer in Compromise settlement from the IRS for $1,800.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"slide_4hDcMm":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Edward S","heading_size":"h2","subheading":"A Truck Driver owed $275,000 in Federal Taxes. He received an Offer in Compromise settlement from the IRS for $2,375.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"slide_z4RLyJ":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/image_face_150-1.png","heading":"Gertrudes P","heading_size":"h2","subheading":"A self-employed cleaning (house keeper) person who owed $10,000 in Federal taxes and received an Offer in Compromise settlement from the IRS $50.","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["slide_T7VD6t","slide_t6hRW3","slide_mpjQPR","slide_whzJqU","slide_4hDcMm","slide_z4RLyJ"],"custom_css":[".banner__media {height: 46%; position: absolute; left: 520px; top: 0px; width: 15%;}",".media {display: block; background-color: #ffffff;}",".slideshow__text.banner__box {max-width: 89.5rem; padding-top: 11%;}"],"settings":{"layout":"grid","slide_height":"small","slider_visual":"dots","auto_rotate":false,"change_slides_speed":3,"image_behavior":"none","show_text_below":true,"accessibility_info":""}},"richtext_dedicated_dDkLyW":{"type":"richtext-dedicated","blocks":{"heading_PJj383":{"type":"heading","settings":{"heading":"Let a Dedicated Tax Attorney resolve your tax problems. Schedule a Free Consultation now.","heading_size":"h0"}},"button_Q9WQYC":{"type":"button","settings":{"button_label":"Schedule Your FREE ConsultationButton label","button_link":"#","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_PJj383","button_Q9WQYC"],"custom_css":["a.button.button--primary {background-color: #ff7150; border-radius: 12px; font-family: \"Libre Baskerville\";}",".rich-text__wrapper {background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0854\/9272\/8089\/files\/office-work.jpg?v=1706694524); padding: 5em 2em 5em 2em; background-position: center center; background-repeat: no-repeat; background-size: cover; width: 100%;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["image_with_text_section1_gYYJpG","image_with_text_section2_EErTQB","image_with_text_exT6N6","slick_slider_yeYJWh","custom_liquid_TqGrqB","image_with_text_mxaLPH","ourservices_fGGKJC","rich_text_jhM8Rm","area_xQmQNL","how_JtUU8X","rich_text_PYcgn7","rich_text_p87xPw","slideshow_LWyKkQ","richtext_dedicated_dDkLyW"]}
+{
+  "sections": {
+    "image_with_text_section1_gYYJpG": {
+      "type": "image-with-text-section1",
+      "blocks": {
+        "heading_T6icmk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Walrond Tax Resolutions, PLLC is a division of JLD Tax Resolution Group<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_kPnDC4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Walrond Tax Resolutions, PLLC help save our clients millions of dollars in taxes. We help protect you against the IRS and any state tax agencies.<\/p>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        },
+        "button_Cr7amN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "#",
+            "button_style_secondary": false
+          }
+        },
+        "caption_MdKkTD": {
+          "type": "caption",
+          "settings": {
+            "caption": "Best Tax Resolution Service",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "caption_PabVib": {
+          "type": "caption",
+          "settings": {
+            "caption": "Tax Problem Solver",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "caption_izdNdw": {
+          "type": "caption",
+          "settings": {
+            "caption": "Highly Dedicated Worker",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_T6icmk",
+        "text_kPnDC4",
+        "button_Cr7amN",
+        "caption_MdKkTD",
+        "caption_PabVib",
+        "caption_izdNdw"
+      ],
+      "custom_css": [
+        ".image-with-text__text-item.grid__item {background-color: #463325;}",
+        "strong {color: #ffffff;}",
+        ".image-with-text__heading {color: white;}",
+        "a.button.button {background-color: #e36e14; border-radius: 12px;}",
+        "a.button.button:hover {background-color: red;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_section2_EErTQB": {
+      "type": "image-with-text-section2",
+      "blocks": {
+        "heading_mT7baH": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Walrond Tax Resolutions, PLLC",
+            "heading_size": "h1"
+          }
+        },
+        "heading_DkVzLy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tax Resolutions for small businesses & individuals",
+            "heading_size": "h0"
+          }
+        },
+        "text_khchUL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.<\/p><p>We have extensive experience with assisting individuals and business owners resolve their IRS and state tax problems. <\/p>",
+            "sidetext": "",
+            "text_style": "subtitle"
+          }
+        },
+        "button_eFKVMy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "#",
+            "button_style_secondary": false
+          }
+        },
+        "richtext_H7C8b9": {
+          "type": "richtext",
+          "settings": {
+            "experience": "<h2>15+Years Experienced<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mT7baH",
+        "heading_DkVzLy",
+        "text_khchUL",
+        "button_eFKVMy",
+        "richtext_H7C8b9"
+      ],
+      "custom_css": [
+        "h2.image-with-text__heading.inline-richtext.h1 {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}",
+        "h2.image-with-text__heading.inline-richtext.h0 {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}",
+        ".image-with-text__text.rte.body {font-family: \"Libre Baskerville\"; font-size: 16px;}",
+        ".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border-radius: 12px;}",
+        "a.button {background-color: #e36e14; border-radius: 12px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W1.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_exT6N6": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_83MG6f": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Walrond Tax Resolutions, PLLC is a division of JLD Tax Resolution Group<\/strong><\/h1>",
+            "sidetext": "",
+            "text_style": "subtitle"
+          }
+        },
+        "heading_bbmxYf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Walrond Tax Resolutions, PLLC help save our clients millions of dollars in taxes. We help protect you against the IRS and any state tax agencies.",
+            "heading_size": "h2"
+          }
+        },
+        "button_zPwGUm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Started",
+            "button_link": "#",
+            "button_style_secondary": false
+          }
+        },
+        "text_nEfxhn": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Best Tax Resolution Service<\/strong><\/p>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        },
+        "text_t66MjX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tax Problem Solver<\/strong><\/p>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        },
+        "text_wiVgcA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Highly Dedicated Worker<\/strong><\/p>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_83MG6f",
+        "heading_bbmxYf",
+        "button_zPwGUm",
+        "text_nEfxhn",
+        "text_t66MjX",
+        "text_wiVgcA"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__text-item.grid__item {background-color: #463325;}",
+        "strong {color: #ffffff;}",
+        ".image-with-text__heading {color: white;}",
+        "a.button.button {background-color: #e36e14; border-radius: 12px;}",
+        "a.button.button:hover {background-color: red;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bannerimage.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slick_slider_yeYJWh": {
+      "type": "Slick-Slider",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "custom_liquid_TqGrqB": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_mxaLPH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wEGf4M": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Walrond Tax Resolutions, PLLC",
+            "heading_size": "h2"
+          }
+        },
+        "heading_AtNEbM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Tax Resolutions for small businesses & individuals<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_AMF8UB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.<\/p><p>We have extensive experience with assisting individuals and business owners resolve their IRS and state tax problems. <\/p>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        },
+        "button_biPkiy": {
+          "type": "button",
+          "settings": {
+            "button_label": "About us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true
+          }
+        },
+        "text_Xr76Ab": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>15+Years Experienced<\/strong><\/h1>",
+            "sidetext": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wEGf4M",
+        "heading_AtNEbM",
+        "text_AMF8UB",
+        "button_biPkiy",
+        "text_Xr76Ab"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2.image-with-text__heading.inline-richtext.h2 {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}",
+        "h2.image-with-text__heading.inline-richtext.h0 {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}",
+        ".image-with-text__text.rte.body {font-family: \"Libre Baskerville\"; font-size: 16px;}",
+        ".image-with-text__media.image-with-text__media--adapt.global-media-settings.background-transparent.media {border-radius: 12px;}",
+        "a.button {background-color: #e36e14; border-radius: 12px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/W1.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ourservices_fGGKJC": {
+      "type": "ourservices",
+      "custom_css": [
+        "\/* img {width: 368px; height: 178px; padding-right: 2%; padding-bottom: 2%;}",
+        " *\/strong {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}",
+        "h2 {position: absolute; top: 65px; left: 65px; color: #ffffff; font-size: 24px; font-weight: 600; font-family: \"Libre Baskerville\";}"
+      ],
+      "settings": {
+        "ourservices": "Our Services",
+        "ourservicesheading": "<h1><strong>Our Tax Services<\/strong><\/h1>",
+        "ourservicesbody": "Our organization is dedicated to providing personal and professional financial services to our clients with the highest level of professionalism, expertise, and client satisfaction.",
+        "img1": "shopify:\/\/shop_images\/W4_img1.png",
+        "img2": "shopify:\/\/shop_images\/W2_img2.png",
+        "img3": "shopify:\/\/shop_images\/W3_img3.png",
+        "img4": "shopify:\/\/shop_images\/w4_img4.png",
+        "img5": "shopify:\/\/shop_images\/w4_img5.png",
+        "img6": "shopify:\/\/shop_images\/W4_img6.png",
+        "backgroundimage": "shopify:\/\/shop_images\/Futurism-Background-23.jpg",
+        "backgroundtext1": "<h2>Prepare Federal and Tax Returns<\/h2>",
+        "backgroundtext2": "<h2>Tax Court representation<\/h2>",
+        "backgroundtext3": "<h2>Federal Court Representation<\/h2>",
+        "backgroundtext4": "<h2>Installment plans<\/h2>",
+        "backgroundtext5": "<h2>Amended tax returns<\/h2>",
+        "backgroundtext6": "<h2>Chapter 7 Bankruptcy<\/h2>"
+      }
+    },
+    "rich_text_jhM8Rm": {
+      "type": "rich-text",
+      "blocks": {
+        "button_yN793A": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All Services",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_yN793A"
+      ],
+      "custom_css": [
+        ".rich-text {z-index: 1; margin-top: 3%; background-color: #cfd2d9;}",
+        "a.button.button--primary {background-color: #e36e14;}",
+        "a.button.button--primary:hover {background-color: red;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "area_xQmQNL": {
+      "type": "area",
+      "blocks": {
+        "richtext_d4xAnM": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Tax Controversy – represent clients in civil litigation with the IRS and State Authorities<\/h5>"
+          }
+        },
+        "richtext_6bV9ME": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>LLC Formation and Incorporation<\/h5>"
+          }
+        },
+        "richtext_TUDkJr": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Preparation of Tax Returns ( Individual and Business)<\/h5>"
+          }
+        },
+        "richtext_NiyLi3": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Offer in Compromise ( Tax Debt Relief)<\/h5>"
+          }
+        },
+        "richtext_wVrE3x": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Heling prevent Tax Levies, collections and wage garnishment<\/h5>"
+          }
+        },
+        "richtext_iUQU4L": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Prepare applications for ITINs<\/h5>"
+          }
+        },
+        "richtext_pBiTnE": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Bankruptcy -Chapter 7 only<\/h5>"
+          }
+        },
+        "richtext_tzP67G": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Innocent Spouse Relief<\/h5>"
+          }
+        },
+        "richtext_N9Pin8": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Payroll Services<\/h5>"
+          }
+        },
+        "richtext_RgzEHP": {
+          "type": "richtext",
+          "settings": {
+            "subbody": "<h5>Court Defense in Tax Cases<\/h5>"
+          }
+        },
+        "image_kM3cwC": {
+          "type": "image",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/whiteright.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_d4xAnM",
+        "richtext_6bV9ME",
+        "richtext_TUDkJr",
+        "richtext_NiyLi3",
+        "richtext_wVrE3x",
+        "richtext_iUQU4L",
+        "richtext_pBiTnE",
+        "richtext_tzP67G",
+        "richtext_N9Pin8",
+        "richtext_RgzEHP",
+        "image_kM3cwC"
+      ],
+      "settings": {
+        "areatext": "Walrond Tax Resolutions, PLLC",
+        "Heading2": "Areas of Practice"
+      }
+    },
+    "how_JtUU8X": {
+      "type": "how",
+      "blocks": {
+        "richtext_4pMEdp": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Offer in Compromise (Tax Debt Relief)<\/strong><\/p>"
+          }
+        },
+        "richtext_fCeCkM": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Payroll Services for Small Businesses<\/strong><\/p>"
+          }
+        },
+        "richtext_TphqcT": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Bankruptcy, Chapter 7 Only<\/strong><\/p>"
+          }
+        },
+        "richtext_Ck46bA": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Challenge to Tax Liability<\/strong><\/p>"
+          }
+        },
+        "richtext_xkKAhb": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Applying for ITINs<\/strong><\/p>"
+          }
+        },
+        "richtext_DckEEA": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>Helping prevent Tax Levies, wage garnishment, bank levies, and collections<\/strong><\/p>"
+          }
+        },
+        "richtext_gw89mM": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>LLC Formation and Corporation Formation<\/strong><\/p>"
+          }
+        },
+        "richtext_CK6LYm": {
+          "type": "richtext",
+          "settings": {
+            "howmenus": "<p><strong>New Business Formation<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_4pMEdp",
+        "richtext_fCeCkM",
+        "richtext_TphqcT",
+        "richtext_Ck46bA",
+        "richtext_xkKAhb",
+        "richtext_DckEEA",
+        "richtext_gw89mM",
+        "richtext_CK6LYm"
+      ],
+      "custom_css": [
+        "h1 {padding-top: 9%; color: white; font-family: \"Libre Baskerville\", Sans-serif; font-size: 46px; font-weight: 700; line-height: 1.1em;}",
+        "p {font-size: 22px; font-weight: 600; color: #ffffff;}"
+      ],
+      "settings": {
+        "howheading": "<h1><strong>How we can help ?<\/strong><\/h1>",
+        "subtitle": "Walrond Tax Resolutions, PLLC can provide assistance with",
+        "backgroundimage": "shopify:\/\/shop_images\/customer-service-executives-working-in-call-center.jpg"
+      }
+    },
+    "rich_text_PYcgn7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qVgBTN": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Let a Dedicated Tax Attorney resolve your tax problems.<br\/>Schedule a Free Consultation now.<\/strong><\/h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qVgBTN"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a.button.button--primary {background-color: #ff7150; border-radius: 12px; font-family: \"Libre Baskerville\";}",
+        ".rich-text__wrapper {background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0854\/9272\/8089\/files\/office-work.jpg?v=1706694524); padding: 5em 2em 5em 2em; background-position: center center; background-repeat: no-repeat; background-size: cover; \/* filter: brightness(30%) contrast(100%) saturate(65%) blur(0px) hue-rotate(0deg); *\/ width: 100%;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_p87xPw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_X7Bkhz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Testimonials",
+            "heading_size": "h2"
+          }
+        },
+        "text_ctnRax": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>What Our Clients Says<\/strong><\/h1>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_X7Bkhz",
+        "text_ctnRax"
+      ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.inline-richtext.h2.scroll-trigger.animate--slide-in {color: #e36e14; font-family: \"Inter\"; font-size: 14px; font-weight: 600;}",
+        ".rich-text__text.rte.scroll-trigger.animate--slide-in {font-family: \"Libre Baskerville\"; font-size: 48px; font-weight: 700;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_LWyKkQ": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_T7VD6t": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Lens and Miggy A",
+            "heading_size": "h2",
+            "subheading": "A married couple ,spouse laid off from job, owns a house, owed $45,000 in Federal Taxes, the couple receive an Offer in Compromise settlement from the IRS for $1,000.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_t6hRW3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Jarruth D",
+            "heading_size": "h2",
+            "subheading": "W-2 employee owed $90,000 in Federal taxes, child support payments he owes, he received an Offer in Compromise settlement from the IRS for $1,000.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mpjQPR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Evon L",
+            "heading_size": "h1",
+            "subheading": "Shared-ride Driver owed $15,000 in State Taxes, he received an Offer in Compromise settlement from the IRS for $4,000.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_whzJqU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Anthony R",
+            "heading_size": "h1",
+            "subheading": "Shared-ride Driver owed $45,000 in Federal Taxes due an IRS Audit, he received an Offer in Compromise settlement from the IRS for $1,800.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4hDcMm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Edward S",
+            "heading_size": "h2",
+            "subheading": "A Truck Driver owed $275,000 in Federal Taxes. He received an Offer in Compromise settlement from the IRS for $2,375.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_z4RLyJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_face_150-1.png",
+            "heading": "Gertrudes P",
+            "heading_size": "h2",
+            "subheading": "A self-employed cleaning (house keeper) person who owed $10,000 in Federal taxes and received an Offer in Compromise settlement from the IRS $50.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_T7VD6t",
+        "slide_t6hRW3",
+        "slide_mpjQPR",
+        "slide_whzJqU",
+        "slide_4hDcMm",
+        "slide_z4RLyJ"
+      ],
+      "custom_css": [
+        ".banner__media {height: 46%; position: absolute; left: 520px; top: 0px; width: 15%;}",
+        ".media {display: block; background-color: #ffffff;}",
+        ".slideshow__text.banner__box {max-width: 89.5rem; padding-top: 11%;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "richtext_dedicated_dDkLyW": {
+      "type": "richtext-dedicated",
+      "blocks": {
+        "heading_PJj383": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let a Dedicated Tax Attorney resolve your tax problems. Schedule a Free Consultation now.",
+            "heading_size": "h0"
+          }
+        },
+        "button_Q9WQYC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Schedule Your FREE ConsultationButton label",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PJj383",
+        "button_Q9WQYC"
+      ],
+      "custom_css": [
+        "a.button.button--primary {background-color: #ff7150; border-radius: 12px; font-family: \"Libre Baskerville\";}",
+        ".rich-text__wrapper {background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0854\/9272\/8089\/files\/office-work.jpg?v=1706694524); padding: 5em 2em 5em 2em; background-position: center center; background-repeat: no-repeat; background-size: cover; width: 100%;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_hzLPWR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_f49bYM": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Best Tax Resolution Service<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mbgmYN": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QnPcrp": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_f49bYM",
+        "column_mbgmYN",
+        "column_QnPcrp"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_with_text_section1_gYYJpG",
+    "image_with_text_section2_EErTQB",
+    "image_with_text_exT6N6",
+    "slick_slider_yeYJWh",
+    "custom_liquid_TqGrqB",
+    "image_with_text_mxaLPH",
+    "ourservices_fGGKJC",
+    "rich_text_jhM8Rm",
+    "area_xQmQNL",
+    "how_JtUU8X",
+    "rich_text_PYcgn7",
+    "rich_text_p87xPw",
+    "slideshow_LWyKkQ",
+    "richtext_dedicated_dDkLyW",
+    "multicolumn_hzLPWR"
+  ]
+}
